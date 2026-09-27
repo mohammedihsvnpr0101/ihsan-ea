@@ -1,0 +1,10 @@
+{
+  "licenses": [
+    {
+      "key": "IHSAN-001",
+      "account": "12345678",
+      "status": "ACTIVE",
+      "expiry": "2026-12-31"
+    }
+  ]
+}
